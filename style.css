@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Lehigh';
+    src: url('fonts/subset-LehighPersonal-Bold.woff2') format('woff2'),
+        url('fonts/subset-LehighPersonal-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lehigh';
+    src: url('fonts/subset-LehighPersonal-Light.woff2') format('woff2'),
+        url('fonts/subset-LehighPersonal-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lehigh';
+    src: url('fonts/subset-LehighPersonal-Regular.woff2') format('woff2'),
+        url('fonts/subset-LehighPersonal-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Lehigh';
+}
