@@ -24,4 +24,10 @@
 
 body {
     font-family: 'Lehigh';
+    font-size: 24pt;
+}
+
+#sidebar {
+    /*background-color: #ADF;*/
+    background-color: #C6DDF8;
 }
